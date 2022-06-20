@@ -1,0 +1,5 @@
+﻿  Lab_4.cpp
+  Point.cpp
+D:\KPI\Codes\OP 2 semestr\Lab_4\Lab_4\Point.cpp(49,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  Lab_4.vcxproj -> D:\KPI\Codes\OP 2 semestr\Lab_4\Debug\Lab_4.exe
