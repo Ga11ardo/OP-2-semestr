@@ -1,0 +1,3 @@
+D:/KPI/Codes/Basics of programming/Lab_6/cmake-build-debug/CMakeFiles/Lab_6.dir
+D:/KPI/Codes/Basics of programming/Lab_6/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/KPI/Codes/Basics of programming/Lab_6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
