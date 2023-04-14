@@ -1,0 +1,7 @@
+﻿  Book.cpp
+D:\Codes\KPI\OP 2 sem\Lab 2\Lab 2\Book.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Codes\KPI\OP 2 sem\Lab 2\Lab 2\Book.cpp(148,41): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Lab 2.cpp
+D:\Codes\KPI\OP 2 sem\Lab 2\Lab 2\Lab 2.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Создание кода...
+  Lab 2.vcxproj -> D:\Codes\KPI\OP 2 sem\Lab 2\x64\Debug\Lab 2.exe
