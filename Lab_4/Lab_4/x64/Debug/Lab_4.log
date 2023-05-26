@@ -1,0 +1,4 @@
+﻿  Lab_4.cpp
+D:\Codes\KPI\OP 2 sem\Lab_4\Lab_4\Lab_4.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Codes\KPI\OP 2 sem\Lab_4\Lab_4\Functions.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Lab_4.vcxproj -> D:\Codes\KPI\OP 2 sem\Lab_4\x64\Debug\Lab_4.exe
