@@ -1,0 +1,10 @@
+﻿  Lab1.cpp
+  file_pointer.cpp
+  file_stream.cpp
+  file_stream_functions.cpp
+D:\Codes\KPI\Lab1\Lab1\file_stream_functions.cpp(56,24): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Codes\KPI\Lab1\Lab1\file_stream_functions.cpp(90,23): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Codes\KPI\Lab1\Lab1\file_stream_functions.cpp(110,33): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Codes\KPI\Lab1\Lab1\file_stream_functions.cpp(111,27): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  Lab1.vcxproj -> D:\Codes\KPI\Lab1\x64\Debug\Lab1.exe
